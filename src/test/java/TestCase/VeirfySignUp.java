@@ -25,5 +25,7 @@ public class VeirfySignUp extends BaseClass {
 		
 		Select sl=new Select(sp.selectJobTitle());
 		sl.selectByIndex(1);
+		
+		//This is only for demo purpose
 	}
 }
